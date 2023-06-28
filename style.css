@@ -62,7 +62,7 @@ button{
     border: none;
     background-color:hsla(158, 36%, 37%);
 }
-button >p{
+button >span{
     font-size: 9px;
     font-weight:700;
     color:hsla(0, 0%, 100%);
